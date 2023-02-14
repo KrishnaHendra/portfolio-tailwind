@@ -1,2 +1,2 @@
-# portfolio-tailwind
+# Portfolio Tailwind
 My Portfolio with Tailwind CSS
